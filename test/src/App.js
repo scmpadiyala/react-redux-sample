@@ -4,6 +4,7 @@ import "./App.css";
 
 // Welcome to first chANGE
 class App extends Component {
+  // Welcome to GitHub Changes 123
   render() {
     return (
       <div className="App">
