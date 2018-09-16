@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 class App extends Component {
+  // Welcome to GitHub Changes
   render() {
     return (
       <div className="App">
